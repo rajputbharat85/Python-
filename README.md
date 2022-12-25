@@ -1,1 +1,1 @@
-# Spelling-Corrector
+# Python
